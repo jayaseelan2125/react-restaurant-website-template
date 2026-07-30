@@ -64,7 +64,7 @@ const Hero = () => {
             className="border-white text-white hover:bg-white hover:text-black px-8 py-3 text-lg font-semibold transition-all duration-300 transform hover:scale-105"
             onClick={() => scrollToSection(CONTACT_SECTION_ID)}
           >
-            Make Reservation
+            Reservation
           </Button>
         </div>
       </div>
