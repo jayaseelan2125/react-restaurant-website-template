@@ -55,7 +55,7 @@ const Hero = () => {
             className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 text-lg font-semibold transition-all duration-300 transform hover:scale-105"
             onClick={() => scrollToSection(MENU_SECTION_ID)}
           >
-            Explore Menu
+            Explore New Menu
           </Button>
 
           <Button
