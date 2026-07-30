@@ -32,7 +32,7 @@ const Hero = () => {
           data-aos-delay="100"
           className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-playfair font-bold text-white mb-6 leading-tight"
         >
-          Welcome to <span className="text-primary">Jayaseelan Rest-Cafe</span>
+          Welcome to <span className="text-primary">Jayaseelan RestCafe</span>
         </h1>
 
         <p
