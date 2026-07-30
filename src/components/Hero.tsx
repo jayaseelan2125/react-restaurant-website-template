@@ -32,7 +32,7 @@ const Hero = () => {
           data-aos-delay="100"
           className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-playfair font-bold text-white mb-6 leading-tight"
         >
-          Welcome to <span className="text-primary">RestoOne</span>
+          Welcome to <span className="text-primary">Jayaseelan Restaurant</span>
         </h1>
 
         <p
@@ -40,8 +40,8 @@ const Hero = () => {
           data-aos-delay="500"
           className="text-lg sm:text-xl md:text-2xl text-gray-200 mb-8 max-w-2xl mx-auto leading-relaxed"
         >
-          Where culinary artistry meets exceptional hospitality. Experience the
-          finest flavors crafted with passion and precision.
+          This website is automatically deployed using GitHub Actions CI/CD,
+          Self-hosted Runner, AWS EC2, and Nginx.
         </p>
 
         {/* Call-to-action buttons */}
